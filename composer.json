@@ -1,0 +1,17 @@
+{
+  "name": "nrk63/oop",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "nrk63"
+    }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "symfony/validator" : ">=6.2",
+    "symfony/http-client" : ">=6.2",
+    "ext-readline": "*"
+  }
+}
