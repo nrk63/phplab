@@ -2,3 +2,4 @@
 start_server.bat
 composer.lock
 composer.phar
+vendor
